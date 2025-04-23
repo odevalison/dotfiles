@@ -14,12 +14,11 @@ vim.cmd("nmap op o<Esc>k")
 vim.cmd("nmap oi o<Esc>j")
 
 vim.opt.relativenumber = true
-vim.opt.number = true
 
 vim.diagnostic.config({
-  virtual_text = true,
-  signs = true,
-  underline = true,
-  update_in_insert = false,
-  serverity_sort = true,
+	virtual_text = true,
+	signs = true,
+	underline = true,
+	update_in_insert = false,
+	serverity_sort = true,
 })
