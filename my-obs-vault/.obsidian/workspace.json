@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "59ac8a7566ced0a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "faf10b550c70c2fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee9f210d98ba2983",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86342227589fe8b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "c77ad8d84d324837",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a77133e9a9eb8c58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "8382a46aa3ece502",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "c9c4c704e8eee95f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274.5
+  },
+  "right": {
+    "id": "3d085662d5084463",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbcbb239bd4f9348",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eeabf50004b3539c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git-Github/Enviando repositorio para o Github.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Enviando repositorio para o Github"
+            }
+          },
+          {
+            "id": "0acc81dacfd4837f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git-Github/Enviando repositorio para o Github.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Enviando repositorio para o Github"
+            }
+          },
+          {
+            "id": "f4df666e5159b1ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "174241cfdbfb1749",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git-Github/Enviando repositorio para o Github.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Enviando repositorio para o Github"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "markdown-importer:Abrir importador Markdown": false
+    }
+  },
+  "active": "ee9f210d98ba2983",
+  "lastOpenFiles": [
+    "000 - Git e Controle de Versao.md",
+    "003 - Repositorios.md",
+    "001 - O que e Git.md",
+    "015 - GIt pull.md",
+    "002 - Git vs GitHub.md",
+    "004 - O que GitHub.md",
+    "014 - Git push.md",
+    "011 - Repositorio remoto.md",
+    "008 - Git commit.md",
+    "010 - Instalacao & Configuracao GIt.md",
+    "005 - Git init.md",
+    "009 - Stage area.md",
+    "007 - Git add.md",
+    "006 - Git status.md",
+    "Git-Github/Instalacao do Git (Linux).md",
+    "Git-Github/Salvando arquivos.md",
+    "Git-Github/Iniciando um Repositorio (Repo).md",
+    "Git-Github/Conhecendo GitHub.md",
+    "Git-Github/Verificando alteracoes.md",
+    "Git-Github/O que e Repositorio (Repo).md",
+    "Git-Github/Git e GitHub (Diferencas).md",
+    "Templates/Zettel.md",
+    "Templates",
+    "Git-Github/Git.md",
+    "Git-Github/Enviando repositorio para o Github.md",
+    "Bem-vindo.md",
+    "Git-Github"
+  ]
+}
