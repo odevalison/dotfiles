@@ -1,0 +1,12 @@
+{
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./",
+  "showLineNumber": false,
+  "foldIndent": true,
+  "showIndentGuide": false,
+  "tabSize": 2,
+  "vimMode": false,
+  "readableLineLength": true,
+  "propertiesInDocument": "visible"
+}

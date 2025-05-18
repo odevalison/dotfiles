@@ -1,0 +1,10 @@
+{
+  "cssTheme": "",
+  "accentColor": "",
+  "baseFontSize": 14,
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "showRibbon": true,
+  "nativeMenus": false,
+  "theme": "obsidian"
+}
